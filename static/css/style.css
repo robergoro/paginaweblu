@@ -1,0 +1,19 @@
+.navbar-logo {
+    height: 85px;
+}
+
+.footer {
+    background-color:#e189da;
+}
+
+.navbar {
+    background-color:#e189da;
+    
+    
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+}
+
+.navbar-brand {
+    font-size: 40px;
+}
